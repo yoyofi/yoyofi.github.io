@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>NexT</title>
+  <title>yoyofi</title>
   
-  
+  <subtitle>just another DT architect</subtitle>
   <link href="https://theme-next.js.org/atom.xml" rel="self"/>
   
   <link href="https://theme-next.js.org/"/>
@@ -10,7 +10,7 @@
   <id>https://theme-next.js.org/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>yoyofi</name>
     
   </author>
   
